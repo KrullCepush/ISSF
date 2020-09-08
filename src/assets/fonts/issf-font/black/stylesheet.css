@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ISSFFontBlack';
+    src: url('./ISSFFontBlack.eot');
+    src: url('./ISSFFontBlack.eot?#iefix') format('embedded-opentype'),
+        url('./ISSFFontBlack.woff2') format('woff2'),
+        url('./ISSFFontBlack.woff') format('woff'),
+        url('./ISSFFontBlack.ttf') format('truetype'),
+        url('./ISSFFontBlack.svg#ISSFFontBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

@@ -1,0 +1,63 @@
+.historical table {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.historical table td {
+    padding: 1em 0;
+}
+
+.historical h3 {
+text-align: left;
+margin: 2em 0;
+}
+
+.historical table h3 {
+    margin: 1em 0;
+    white-space: nowrap;
+
+}
+
+.historical span.Stil2 {
+    display: block;
+    width: 100%;
+}
+
+.historical span.stil2 {
+    display: block;
+    line-height: 100%;
+}
+
+.historical .stil2 td {
+    padding-bottom: 1em;
+    border-bottom: 1px solid gray;
+}
+
+.historical tr.Stil2 td {
+    padding-bottom: 1em;
+    border-bottom: 1px solid gray;
+}
+.historical .Stil4 {
+    color: #676767;
+}
+
+.historical .Stil4 a {
+    font-size: 14px;
+    margin-left: 10px;
+    display: inline;
+    border: 0;
+}
+
+.historical table span {
+    white-space: nowrap;
+    padding: 0 5px;
+    padding-bottom: 1em;
+    border-bottom: 1px solid gray;
+}
+
+
+.historical table strong {
+    color: #676767;
+}
+
+

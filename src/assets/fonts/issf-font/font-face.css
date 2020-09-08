@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'ISSFFont';
+  src: url('./issffr__.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'ISSFFontMedium';
+  src: url('./issffm__.eot');
+  src: url('./issffm__.eot') format('embedded-opentype'), url('./issffm__.woff') format('woff'), url('./issffm__.ttf') format('truetype'), url('./issffm__.svg#ISSFFONTMedium') format('svg');
+}
+
+@font-face {
+  font-family: 'ISSFFontRoman';
+  src: url('./issffr__.eot');
+  src: url('./issffr__.eot') format('embedded-opentype'), url('./issffr__.woff') format('woff'), url('./issffr__.ttf') format('truetype'), url('./issffr__.svg#ISSFFontRoman') format('svg');
+}
+
+@font-face {
+  font-family: 'ISSFFontBlack';
+  src: url('./black/ISSFFontBlack.eot');
+  src: url('./black/ISSFFontBlack.eot?#iefix') format('embedded-opentype'),
+      url('./black/ISSFFontBlack.woff2') format('woff2'),
+      url('./black/ISSFFontBlack.woff') format('woff'),
+      url('./black/ISSFFontBlack.ttf') format('truetype'),
+      url('./black/ISSFFontBlack.svg#ISSFFontBlack') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+

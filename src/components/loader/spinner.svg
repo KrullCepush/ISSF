@@ -1,0 +1,35 @@
+<svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="38" cy="38" r="38" fill="white"/>
+<path d="M47.3652 47.4466C52.5457 42.2577 52.5457 33.8449 47.3652 28.656C42.1846 23.4671 33.7853 23.4671 28.6047 28.656C23.4242 33.8449 23.4242 42.2577 28.6047 47.4466C33.7853 52.6354 42.1846 52.6354 47.3652 47.4466Z" fill="black"/>
+<g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M56.8593 39.5412C56.1389 48.8454 48.719 56.27 39.4189 56.9663V61.7032C51.3232 60.9889 60.8538 51.4574 61.5922 39.5376L56.8593 39.5412Z" fill="#FECB37"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0572 39.5412C19.7776 48.8454 27.1975 56.27 36.4976 56.9663V61.7032C24.5933 60.9889 15.0627 51.4574 14.3243 39.5376L19.0572 39.5412Z" fill="#CC1417"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M56.8593 36.5902C56.1389 27.286 48.719 19.8614 39.4189 19.1651V14.4282C51.3232 15.1425 60.8538 24.674 61.5922 36.5938L56.8593 36.5902Z" fill="#203C89"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0572 36.5902C19.7776 27.286 27.1975 19.8614 36.4976 19.1651V14.4282C24.5933 15.1425 15.0627 24.674 14.3243 36.5938L19.0572 36.5902Z" fill="#08672F"/>
+    <animateTransform 
+        attributeName="transform"
+        type="rotate"
+        from="0, 38, 38" 
+        to="360, 38, 38"
+        begin="0s"
+        dur="3s"
+        repeatCount="indefinite"
+    />
+</g>
+<g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M39.5018 67.3131V72.3278C57.2231 71.5557 71.447 57.2946 72.1998 39.5376H67.1571C66.4079 54.5167 54.464 66.5699 39.5018 67.3131Z" fill="#08672F"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M36.4971 67.3128V72.3275C18.7758 71.5518 4.55187 57.2907 3.79907 39.5337H8.84173C9.59092 54.5164 21.5384 66.5696 36.4971 67.3128Z" fill="#203C89"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M39.5018 8.81448V3.7998C57.2231 4.57185 71.447 18.833 72.1998 36.59H67.1571C66.4079 21.6109 54.464 9.55405 39.5018 8.81448Z" fill="#CC1417"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M36.497 8.81448V3.7998C18.7756 4.57185 4.55175 18.833 3.79895 36.59H8.8416C9.5908 21.6109 21.5383 9.55405 36.497 8.81448Z" fill="#FECB37"/>
+    <animateTransform 
+        attributeName="transform"
+        type="rotate"
+        from="0, 38, 38" 
+        to="-360, 38, 38"
+        begin="0s"
+        dur="3s"
+        repeatCount="indefinite"
+    />
+</g>
+
+</svg>
